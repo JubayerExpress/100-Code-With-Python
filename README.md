@@ -1,4 +1,4 @@
-# 50-Code-With-Python
+# 100-Code-With-Python
 # Python Coding Problems and Solutions
 
 This repository contains a series of Python coding problems along with their solutions. The problems range from simple string manipulations to more complex tasks such as calculating GCD and solving mathematical problems. These solutions are intended to help learners and developers improve their problem-solving skills using Python.
